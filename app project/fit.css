@@ -1,0 +1,15 @@
+body{
+    background: f4f4f4;
+    font-style: inherit;
+}
+#profile{
+    padding:0px;
+    margin-left: 20px;
+}
+#info{
+    margin-left: 10px;
+}
+#output{
+    margin-top: 10px;
+    
+}
